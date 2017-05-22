@@ -1,4 +1,3 @@
-//Codechef FLIPCOIN
 #include<bits/stdc++.h>
 using namespace std;
 
